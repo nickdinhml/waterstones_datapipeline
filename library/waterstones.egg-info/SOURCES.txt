@@ -1,0 +1,6 @@
+setup.py
+waterstones.egg-info/PKG-INFO
+waterstones.egg-info/SOURCES.txt
+waterstones.egg-info/dependency_links.txt
+waterstones.egg-info/requires.txt
+waterstones.egg-info/top_level.txt
